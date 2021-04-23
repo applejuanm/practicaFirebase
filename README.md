@@ -8,10 +8,19 @@
 
 ## Quickstart
 
+Requeriments:
+
+```bash
+npm install lit-element
+# requires node 10 & npm 6 or higher and polymer-cli
+```
+
+## Quickstart
+
 To get started:
 
 ```bash
-npm init @open-wc
+polymer serve
 # requires node 10 & npm 6 or higher
 ```
 
