@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
+  <img width="200" src="https://img.rankedboost.com/wp-content/uploads/2019/05/WoW-Classic-Paladin-Guide.png"></img>
 </p>
 
 ## Open-wc Starter App
